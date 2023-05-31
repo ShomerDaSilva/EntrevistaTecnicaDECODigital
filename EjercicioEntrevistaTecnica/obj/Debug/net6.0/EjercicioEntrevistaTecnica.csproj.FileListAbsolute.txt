@@ -1,0 +1,15 @@
+C:\Users\Shome\source\repos\EjercicioEntrevistaTecnica\EjercicioEntrevistaTecnica\bin\Debug\net6.0\EjercicioEntrevistaTecnica.exe
+C:\Users\Shome\source\repos\EjercicioEntrevistaTecnica\EjercicioEntrevistaTecnica\bin\Debug\net6.0\EjercicioEntrevistaTecnica.deps.json
+C:\Users\Shome\source\repos\EjercicioEntrevistaTecnica\EjercicioEntrevistaTecnica\bin\Debug\net6.0\EjercicioEntrevistaTecnica.runtimeconfig.json
+C:\Users\Shome\source\repos\EjercicioEntrevistaTecnica\EjercicioEntrevistaTecnica\bin\Debug\net6.0\EjercicioEntrevistaTecnica.dll
+C:\Users\Shome\source\repos\EjercicioEntrevistaTecnica\EjercicioEntrevistaTecnica\bin\Debug\net6.0\ref\EjercicioEntrevistaTecnica.dll
+C:\Users\Shome\source\repos\EjercicioEntrevistaTecnica\EjercicioEntrevistaTecnica\bin\Debug\net6.0\EjercicioEntrevistaTecnica.pdb
+C:\Users\Shome\source\repos\EjercicioEntrevistaTecnica\EjercicioEntrevistaTecnica\obj\Debug\net6.0\EjercicioEntrevistaTecnica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shome\source\repos\EjercicioEntrevistaTecnica\EjercicioEntrevistaTecnica\obj\Debug\net6.0\EjercicioEntrevistaTecnica.AssemblyInfoInputs.cache
+C:\Users\Shome\source\repos\EjercicioEntrevistaTecnica\EjercicioEntrevistaTecnica\obj\Debug\net6.0\EjercicioEntrevistaTecnica.AssemblyInfo.cs
+C:\Users\Shome\source\repos\EjercicioEntrevistaTecnica\EjercicioEntrevistaTecnica\obj\Debug\net6.0\EjercicioEntrevistaTecnica.csproj.CoreCompileInputs.cache
+C:\Users\Shome\source\repos\EjercicioEntrevistaTecnica\EjercicioEntrevistaTecnica\obj\Debug\net6.0\EjercicioEntrevistaTecnica.dll
+C:\Users\Shome\source\repos\EjercicioEntrevistaTecnica\EjercicioEntrevistaTecnica\obj\Debug\net6.0\ref\EjercicioEntrevistaTecnica.dll
+C:\Users\Shome\source\repos\EjercicioEntrevistaTecnica\EjercicioEntrevistaTecnica\obj\Debug\net6.0\EjercicioEntrevistaTecnica.pdb
+C:\Users\Shome\source\repos\EjercicioEntrevistaTecnica\EjercicioEntrevistaTecnica\obj\Debug\net6.0\EjercicioEntrevistaTecnica.genruntimeconfig.cache
+C:\Users\Shome\source\repos\EjercicioEntrevistaTecnica\EjercicioEntrevistaTecnica\obj\Debug\net6.0\EjercicioEntrevistaTecnica.csproj.AssemblyReference.cache
